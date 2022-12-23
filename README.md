@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dmarro89
+- 👋 Hi, I’m @dmarro89, Cloud Software Engineer @ Ericsson
 - 👀 I’m interested in Learning New Programming Languages and new technologies.
 - 🌱 I’m currently learning blockchain programming!
 - 💞️ I’m looking to collaborate on every project needs help!

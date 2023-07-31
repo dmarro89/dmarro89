@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dmarro89, Cloud Software Engineer @ Ericsson
-- 👀 I’m interested in Learning New Programming Languages and new technologies.
-- 🌱 I’m currently learning blockchain programming!
+- 👋 Hi, I’m @dmarro89, Software Engineer @ PagoPA
+- 👀 I’m interested in learning the latest technologies about the cloud!
+- 🌱 I’m currently learning typescript, react native and discovering Azure!
 - 💞️ I’m looking to collaborate on every project needs help!
 - 📫 How to reach me : davideraffaele.marro@gmail.com
 

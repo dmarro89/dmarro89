@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dmarro89, Software Engineer @ UnoBravo
-- 👀 I’m interested in learning the latest technologies about the cloud!
-- 🌱 I’m currently learning typescript, react native and discovering AWS & Azure!
-- 💞️ I’m looking to collaborate on every project needs help!
+- 👀 I’m learning typescript, react native and discovering AWS & Azure!
+- 🌱 I’m working hard on two personal projects -> https://github.com/dmarro89/go-redis-hashtable & https://github.com/dmarro89/dare-db! Please Star them and follow me for more info! 
 - 📫 How to reach me : davideraffaele.marro@gmail.com
 
 <!---

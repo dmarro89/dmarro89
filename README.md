@@ -5,7 +5,6 @@
   - https://github.com/dmarro89/dare-db
   - https://github.com/dmarro89/go-redis-hashtable
   - https://github.com/dmarro89/hnsw-go
-- ✍️ Writing on medium - https://medium.com/@davideraffaele.marro
 - 📫 How to reach me : davideraffaele.marro@gmail.com
 
 <!---

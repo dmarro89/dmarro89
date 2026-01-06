@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @dmarro89, Software Engineer @ UnoBravo
-- 👀 I’m learning typescript, react native and discovering AWS & Azure!
-- 💆‍♂️ Exploring Machine Learning and trying to do it in Go 
-- 🌱 I’m working hard on several personal projects - Please Star them and follow me for more info!
-  - https://github.com/dmarro89/dare-db
-  - https://github.com/dmarro89/go-redis-hashtable
-  - https://github.com/dmarro89/hnsw-go
+- 👋 Hi, I’m @dmarro89, Software Engineer for more than 10 years
+- 🌱 I’m working hard on several personal projects (all with Go) - Please Star them and follow me for more info!
+  - https://github.com/dmarro89/dare-db - Database 
+  - https://github.com/dmarro89/go-redis-hashtable - Hashtable implementation
+  - https://github.com/dmarro89/hnsw-go - Trying to implement a HNSW
+  - https://github.com/dmarro89/go-dav-os - 32bit Operating System in Go
 - 📫 How to reach me : davideraffaele.marro@gmail.com
 
 <!---

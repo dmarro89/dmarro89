@@ -3,7 +3,7 @@
   - https://github.com/dmarro89/dare-db - Database 
   - https://github.com/dmarro89/go-redis-hashtable - Hashtable implementation
   - https://github.com/dmarro89/hnsw-go - Trying to implement a HNSW
-  - https://github.com/dmarro89/go-dav-os - 32bit Operating System in Go
+  - https://github.com/dmarro89/go-dav-os - 64bit Operating System in Go
 - 📫 How to reach me : davideraffaele.marro@gmail.com
 
 <!---
